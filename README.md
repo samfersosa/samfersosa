@@ -1,6 +1,6 @@
 # Hey there! I'm Samuel Sosa 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZCZjdD1n/LmNwrBhejkK9ECl50S/giphy.gif" width="300" align="right" alt="Hacking gif">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZCZjdD1n/LmNwrBhejkK9ECl50S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFleHYwMGI1Y21hMnY2aTRncDJyeTNiZWtxaGR2ejNidTBjcW51ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif)" width="300" align="right" alt="Hacking gif">
 
 I'm a passionate **Engineering Student** and **Cybersecurity Enthusiast** dedicated to building secure systems and automating network auditing. My core interests lie in **Network Security**, **Python Automation**, and **Ethical Hacking**.
 
@@ -25,7 +25,7 @@ I thrive on solving complex technical challenges, from analyzing network protoco
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 | **Cybersecurity** | <img src="https://img.shields.io/badge/Nmap-4479A1?style=for-the-badge&logo=nmap&logoColor=white"> <img src="https://img.shields.io/badge/Banner_Grabbing-black?style=for-the-badge&logo=target&logoColor=white"> <img src="https://img.shields.io/badge/Ethical_Hacking-red?style=for-the-badge&logo=kali-linux&logoColor=white"> |
 | **Networking** | <img src="https://img.shields.io/badge/TCP--IP-013243?style=for-the-badge&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> |
 | **Data & Tools** | <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |

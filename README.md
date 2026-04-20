@@ -1,13 +1,18 @@
 # Hey there! I'm Samuel Sosa 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFleHYwMGI1Y21hMnY2aTRncDJyeTNiZWtxaGR2ejNidTBjcW51ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif" width="200" align="rigth" alt="Hacking gif">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFleHYwMGI1Y21hMnY2aTRncDJyeTNiZWtxaGR2ejNidTBjcW51ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif" width="300" align="right" alt="Hacking gif">
+
 
 I'm a passionate **Engineering Student** and **Cybersecurity Enthusiast** dedicated to building secure systems and automating network auditing. My core interests lie in **Network Security**, **Python Automation**, and **Ethical Hacking**.
 
 
 
----
 
+
+
+
+
+---
 ## 🚀 About Me
 
 I found my calling in **Cybersecurity** the moment I realized the power of understanding how systems communicate—and how to protect them. I am committed to building innovative, secure tools that help identify vulnerabilities before they can be exploited.
@@ -21,7 +26,7 @@ I thrive on solving complex technical challenges, from analyzing network protoco
 
 ## 🛠️ Skills Stack
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Z6bTRheXMwamdjemxiM21lcmxnamFlbWVxcjBtN2t5cjdkOXh4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ezG2YU1oeE0scD3pck/giphy.gif" width="50%" alt="Tech divider">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Z6bTRheXMwamdjemxiM21lcmxnamFlbWVxcjBtN2t5cjdkOXh4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ezG2YU1oeE0scD3pck/giphy.gif" width="40%" alt="Tech divider">
 
 <br>
 

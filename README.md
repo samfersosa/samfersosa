@@ -4,6 +4,8 @@
 
 I'm a passionate **Engineering Student** and **Cybersecurity Enthusiast** dedicated to building secure systems and automating network auditing. My core interests lie in **Network Security**, **Python Automation**, and **Ethical Hacking**.
 
+
+
 ---
 
 ## 🚀 About Me
@@ -19,7 +21,7 @@ I thrive on solving complex technical challenges, from analyzing network protoco
 
 ## 🛠️ Skills Stack
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZCZjdD1n/S5n5NfC9oP3oM/giphy.gif" width="100%" alt="Tech divider">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Z6bTRheXMwamdjemxiM21lcmxnamFlbWVxcjBtN2t5cjdkOXh4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ezG2YU1oeE0scD3pck/giphy.gif" width="50%" alt="Tech divider">
 
 <br>
 
@@ -34,7 +36,7 @@ I thrive on solving complex technical challenges, from analyzing network protoco
 
 ## 📬 Let's Connect!
 
-* [**LinkedIn**]((https://www.linkedin.com/in/samuel-fernando-sosa-medina-bb515a342/?skipRedirect=true)) 🔗
+* [**LinkedIn**](https://www.linkedin.com/in/samuel-fernando-sosa-medina-bb515a342/?skipRedirect=true) 🔗
 * [**Email**](mailto:samfersosa@gmail.com) 📧
 
 <p align="center"><i>"Automating security, one script at a time."</i></p>

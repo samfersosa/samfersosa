@@ -1,6 +1,6 @@
 # Hey there! I'm Samuel Sosa 👋
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZHpxN3pxZCZjdD1n/LmNwrBhejkK9ECl50S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFleHYwMGI1Y21hMnY2aTRncDJyeTNiZWtxaGR2ejNidTBjcW51ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif)" width="300" align="right" alt="Hacking gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFleHYwMGI1Y21hMnY2aTRncDJyeTNiZWtxaGR2ejNidTBjcW51ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif" width="300" align="right" alt="Hacking gif">
 
 I'm a passionate **Engineering Student** and **Cybersecurity Enthusiast** dedicated to building secure systems and automating network auditing. My core interests lie in **Network Security**, **Python Automation**, and **Ethical Hacking**.
 
@@ -34,7 +34,7 @@ I thrive on solving complex technical challenges, from analyzing network protoco
 
 ## 📬 Let's Connect!
 
-* [**LinkedIn**]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/samuel-fernando-sosa-medina-bb515a342/?skipRedirect=true)) 🔗
+* [**LinkedIn**]((https://www.linkedin.com/in/samuel-fernando-sosa-medina-bb515a342/?skipRedirect=true)) 🔗
 * [**Email**](mailto:samfersosa@gmail.com) 📧
 
 <p align="center"><i>"Automating security, one script at a time."</i></p>

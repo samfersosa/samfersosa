@@ -34,7 +34,7 @@ I thrive on solving complex technical challenges, from analyzing network protoco
 
 ## 📬 Let's Connect!
 
-* [**LinkedIn**](https://linkedin.com/in/tu-perfil) 🔗
-* [**Email**](mailto:tu-correo@ejemplo.com) 📧
+* [**LinkedIn**]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/samuel-fernando-sosa-medina-bb515a342/?skipRedirect=true)) 🔗
+* [**Email**](mailto:samfersosa@gmail.com) 📧
 
 <p align="center"><i>"Automating security, one script at a time."</i></p>
